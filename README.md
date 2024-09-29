@@ -1,1 +1,1 @@
-# neural-networks-using-numpy
+# Neural Networks with NumPy
